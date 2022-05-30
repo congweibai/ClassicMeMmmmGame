@@ -1,3 +1,3 @@
 # ClassicMeMmmmGame
 
-Live Demo: classicmemmmmgame.vercel.app
+<a href="http://classicmemmmmgame.vercel.app/" target="_blank">Live Demo</a>
